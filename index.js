@@ -3,8 +3,8 @@
 var async = require('async');
 var fs = require('fs');
 
-var checkDoor = require('src/lib/check-door');
-var sendState = require('src/lib/send-state');
+var checkDoor = require('./src/lib/check-door');
+var sendState = require('./src/lib/send-state');
 
 var G_ERR = null;
 
