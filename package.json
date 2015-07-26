@@ -1,0 +1,26 @@
+{
+  "name": "clockwork",
+  "version": "1.0.0",
+  "description": "node js raspi sensor",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.0",
+    "dotenv": "^1.2.0",
+    "pi-gpio": "0.0.7",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artificialscarcity/clockwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artificialscarcity/clockwork/issues"
+  },
+  "homepage": "https://github.com/artificialscarcity/clockwork"
+}
